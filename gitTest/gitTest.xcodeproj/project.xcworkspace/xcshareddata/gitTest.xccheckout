@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>45EC11EA-194A-48FA-8482-BDCC76D31FF9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>gitTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>35B2A953-A5A0-4722-8187-765D7A933D1A</key>
+		<string>https://github.com/loveApricot/Test.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>gitTest/gitTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>35B2A953-A5A0-4722-8187-765D7A933D1A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/loveApricot/Test.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>35B2A953-A5A0-4722-8187-765D7A933D1A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>35B2A953-A5A0-4722-8187-765D7A933D1A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gitTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
